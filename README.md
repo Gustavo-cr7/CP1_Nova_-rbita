@@ -29,3 +29,25 @@ O simulador permite testar a entrada de novos astronautas em um modulo
 O usuario informa o modulo a quantidade de novos astronautas e a situacao da ventilacao
 
 O sistema simula o impacto ambiental e apresenta uma recomendacao
+
+## Arquivos
+
+monitoramento.py
+
+simulador.py
+
+ficha_missao.pdf
+
+kit_dados.py
+
+## Integrantes
+
+Gustavo Guedes — RM 569779 
+Lucas Angelo — RM 569530 
+Gabriel Rodrigues – RM 569322 
+Gustavo de Souza – RM 570746 
+Arhur Tae – RM 570647
+
+## Turma
+
+Turma 1CCPJ
